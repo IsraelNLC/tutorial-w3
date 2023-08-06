@@ -1,4 +1,3 @@
-"# tutorial-w3" 
 # GitHub Get Started
 
 Introdução: Nesta etapa, fiz o setup do repositório.
@@ -87,9 +86,9 @@ Alteração no HTML
 
 # Pull Branch from GitHub
 
-Introdução: Dar pull em uma branch
+Introdução: Dar pull em uma branch.
 
-Objetivos: Mudar de branch e pegar os commits através do cmd/git
+Objetivos: Mudar de branch e pegar os commits através do cmd/git.
 
 Resultados: Mudei para a branch "secondary" e peguei as alterações mais recentes.
 
