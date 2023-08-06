@@ -7,9 +7,11 @@ Resultados: O repositório foi criado no GitHub, e commitei o arquivo "README.md
 Conclusão: A tarefa foi feita sem muitas dificuldades.
 
 ![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/e8ecf6fc-ddbb-45c3-b005-2deb959d72a8)
+
 Criando o repo
 
 ![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/df1194f7-31d8-448d-934f-102792a0220c)
+
 Commit enviado
 
 # GitHub Edit Code
@@ -20,6 +22,7 @@ Resultados: Editei o arquivo e adicionei esta seção, e a anterior.
 Conclusão: Tarefa concluída com sucesso, resta apenas dar o commit.
 
 ![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/c941232a-9a40-4bea-9702-04128c077926)
+
 Editando...
 
 # Pull from GitHub
@@ -30,10 +33,27 @@ Resultados: Consegui verificar as mudanças e dei um merge entre as branches.
 Conclusão: Tarefa concluída com sucesso. Também aprendi que o pull é a junção do fetch + merge.
 
 ![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/f4c7c9f5-1f2d-4d85-90d5-3e9694013d0f)
+
 Dando fetch e verificando
 
 ![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/f0110dde-a7ba-41bf-9f94-7893269d0e01)
+
 Merge
+
+# Push to GitHub
+
+Introdução: Nesta etapa, criei um arquivo e enviei para o git
+Objetivo: Aprender a dar um commit para a origin (push)
+Resultados: Tinha me esquecido de dar fetch, tive alguns erros mas foram resolvidos.
+Conclusão: Tarefa concluída com sucesso.
+
+![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/b7420452-3069-448f-b576-ef66800db6a2)
+
+Arquivo HTML a ser enviado
+
+![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/12177520-dc48-49e1-b741-215f00e47605)
+
+Push para origin
 
 
 
