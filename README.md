@@ -42,8 +42,8 @@ Merge
 
 # Push to GitHub
 
-Introdução: Nesta etapa, criei um arquivo e enviei para o git
-Objetivo: Aprender a dar um commit para a origin (push)
+Introdução: Nesta etapa, criei um arquivo e enviei para o git.
+Objetivo: Aprender a dar um commit para a origin (push).
 Resultados: Tinha me esquecido de dar fetch, tive alguns erros mas foram resolvidos.
 Conclusão: Tarefa concluída com sucesso.
 
@@ -55,5 +55,19 @@ Arquivo HTML a ser enviado
 
 Push para origin
 
+# GitHub Branch
+
+Introdução: Criar uma branch.
+Objetivos: Aprender como criar uma branch e dar o primeiro commit.
+Resultados: Criei a branch "secondary", e fiz uma pequena alteração no teste.html.
+Conclusão: Tarefa concluída com sucesso.
+
+![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/4439e4e1-3022-41de-87e7-bd44a55a907f)
+
+Branch ciada
+
+![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/2dffb6c5-810f-43e9-b329-ba337970a88c)
+
+Alteração no HTML
 
 
