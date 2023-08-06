@@ -96,5 +96,33 @@ Resultados: Mudei para a branch "secondary" e peguei as alterações mais recent
 Conclusão: Tarefa concluída com sucesso.
 
 ![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/7aaa66d0-5c32-40de-957e-3c1a58d3f181)
+
 Troca de branches e checkout
+
+# Push Branch to GitHub
+
+Introdução: Dar pull em uma branch.
+
+Objetivos: Criar uma branch local, dar push para o github, e "mergear" seu contaúdo com a main.
+
+Resultados: Enviei a branch e "mergeei" as alterações no teste.html.
+
+Conclusão: Tarefa concluída com sucesso.
+
+![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/56c83a6d-8db6-4b8f-be1a-132aaa7a375e)
+
+Criação da branch e do commit
+
+![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/2ffeda4b-4b5f-4d61-9072-8ccc125bad05)
+
+Alteração do HTML
+
+![image](https://github.com/IsraelNLC/tutorial-w3/assets/99210055/3d405601-3c5b-435c-8900-298d85cdd4b9)
+
+Merge de branches feito, por fim ainda deletei a "third-branch", como sugere o tutorial.
+
+
+# Referêcia
+
+https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github
 
